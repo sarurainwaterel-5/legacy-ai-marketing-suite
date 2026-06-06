@@ -6,15 +6,15 @@ import "./App.css";
 export default function App() {
   return (
     <main className="min-h-screen bg-black text-white">
-      <nav className="max-w-6xl mx-auto px-6 py-6 flex items-center justify-between">
+      <nav className="max-w-6xl mx-auto px-6 py-3 flex items-center justify-between">
        <div className="flex items-center gap-3">
   <img
     src="/oplogo.png"
     alt="Legacy Operator"
-    className="h-10 w-auto"
+    className="h-28 w-auto"
   />
   <span className="font-black text-xl text-yellow-400">
-    Legacy Operator
+  
   </span>
 </div>
      
