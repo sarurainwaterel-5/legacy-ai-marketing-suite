@@ -7,8 +7,17 @@ export default function App() {
   return (
     <main className="min-h-screen bg-black text-white">
       <nav className="max-w-6xl mx-auto px-6 py-6 flex items-center justify-between">
-        <div className="font-black text-xl text-yellow-400">Legacy Operator</div>
-
+       <div className="flex items-center gap-3">
+  <img
+    src="/oplogo.png"
+    alt="Legacy Operator"
+    className="h-10 w-auto"
+  />
+  <span className="font-black text-xl text-yellow-400">
+    Legacy Operator
+  </span>
+</div>
+     
         <div className="hidden md:flex items-center gap-6 text-gray-300">
           <a href="#features" className="hover:text-yellow-400">Features</a>
           <a href="#intake" className="hover:text-yellow-400">Try It</a>
