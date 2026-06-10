@@ -65,19 +65,19 @@ Transforms business inputs into marketing assets and campaign recommendations.
 
 ### Home Page
 
-![Home Page](Pictures/Screenshots/homepage.png)
+![Home Page](screenshots/homepage.png)
 
 ### Pricing
 
-![Pricing](Pictures/Screenshots/pricing.png)
+![Pricing](screenshots/pricing.png)
 
 ### Intake Wizard
 
-![Intake Wizard](Pictures/Screenshots/intake.png)
+![Intake Wizard](screenshots/intake.png)
 
 ### Campaign Generator
 
-![Campaign Generator](Pictures/Screenshots/campaign.png)
+![Campaign Generator](screenshots/campaign.png)
 
 ## Technology Stack
 
